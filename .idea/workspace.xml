@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d25fa43d-d61c-48bd-bc76-66467cd63d09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WSUliDmr1XoNp2T1UhqZkPW3N6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WordFrequenciesFinderTest">
+    <configuration name="RedgateWordFrequenciesApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RedgateWordFrequenciesApp" />
+      <module name="RedgateJobAssessment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordFrequenciesFinderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RedgateJobAssessment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordFrequenciesFinderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordFrequenciesFinderTest.EnsureInvalidArgumentIsThrownWhenTheStringToBeProcessedIsEmptyVoid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RedgateJobAssessment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordFrequenciesFinderTest" />
+      <option name="METHOD_NAME" value="EnsureInvalidArgumentIsThrownWhenTheStringToBeProcessedIsEmptyVoid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordFrequenciesFinderTest.ensureThereIsNoDuplicateWordInTheOutputList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RedgateJobAssessment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordFrequenciesFinderTest" />
+      <option name="METHOD_NAME" value="ensureThereIsNoDuplicateWordInTheOutputList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordFrequenciesFinderTest.testGetSortedWordFrequencies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RedgateJobAssessment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordFrequenciesFinderTest" />
+      <option name="METHOD_NAME" value="testGetSortedWordFrequencies" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WordFrequenciesFinderTest" />
+        <item itemvalue="Application.RedgateWordFrequenciesApp" />
+        <item itemvalue="JUnit.WordFrequenciesFinderTest.testGetSortedWordFrequencies" />
+        <item itemvalue="JUnit.WordFrequenciesFinderTest.ensureThereIsNoDuplicateWordInTheOutputList" />
+        <item itemvalue="JUnit.WordFrequenciesFinderTest.EnsureInvalidArgumentIsThrownWhenTheStringToBeProcessedIsEmptyVoid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d25fa43d-d61c-48bd-bc76-66467cd63d09" name="Default Changelist" comment="" />
+      <created>1579142642569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579142642569</updated>
+      <workItem from="1579142649071" duration="11467000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1723" y="51" key="#Project_Structure" timestamp="1579142673443">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1723" y="51" key="#Project_Structure/1440.0.1366.768/0.0.1440.900@1440.0.1366.768" timestamp="1579142673443" />
+    <state x="1540" y="100" width="1166" height="568" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1579147133718">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1540" y="100" width="1166" height="568" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1440.0.1366.768/0.0.1440.900@1440.0.1366.768" timestamp="1579147133718" />
+    <state x="1728" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579153908306">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1728" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1440.0.1366.768/0.0.1440.900@1440.0.1366.768" timestamp="1579153908306" />
+    <state width="1316" height="485" key="GridCell.Tab.0.bottom" timestamp="1579153998461">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state width="1316" height="485" key="GridCell.Tab.0.bottom/1440.0.1366.768/0.0.1440.900@1440.0.1366.768" timestamp="1579153998461" />
+    <state width="1316" height="485" key="GridCell.Tab.0.bottom/1440.0.1366.768/0.23.1440.877@1440.0.1366.768" timestamp="1579152764245" />
+    <state width="1316" height="485" key="GridCell.Tab.0.center" timestamp="1579153998458">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state width="1316" height="485" key="GridCell.Tab.0.center/1440.0.1366.768/0.0.1440.900@1440.0.1366.768" timestamp="1579153998458" />
+    <state width="1316" height="485" key="GridCell.Tab.0.center/1440.0.1366.768/0.23.1440.877@1440.0.1366.768" timestamp="1579152764241" />
+    <state width="1316" height="485" key="GridCell.Tab.0.left" timestamp="1579153998456">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state width="1316" height="485" key="GridCell.Tab.0.left/1440.0.1366.768/0.0.1440.900@1440.0.1366.768" timestamp="1579153998456" />
+    <state width="1316" height="485" key="GridCell.Tab.0.left/1440.0.1366.768/0.23.1440.877@1440.0.1366.768" timestamp="1579152764239" />
+    <state width="1316" height="485" key="GridCell.Tab.0.right" timestamp="1579153998459">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state width="1316" height="485" key="GridCell.Tab.0.right/1440.0.1366.768/0.0.1440.900@1440.0.1366.768" timestamp="1579153998459" />
+    <state width="1316" height="485" key="GridCell.Tab.0.right/1440.0.1366.768/0.23.1440.877@1440.0.1366.768" timestamp="1579152764243" />
+    <state x="1632" y="23" key="SettingsEditor" timestamp="1579150988633">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1632" y="23" key="SettingsEditor/1440.0.1366.768/0.0.1440.900@1440.0.1366.768" timestamp="1579150988633" />
+    <state x="1849" y="287" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579152824062">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1849" y="287" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1440.0.1366.768/0.0.1440.900@1440.0.1366.768" timestamp="1579143015522" />
+    <state x="1849" y="287" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1440.0.1366.768/0.23.1440.877@1440.0.1366.768" timestamp="1579152824062" />
+    <state x="1788" y="177" key="run.anything.popup" timestamp="1579148354662">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1788" y="177" key="run.anything.popup/1440.0.1366.768/0.0.1440.900@1440.0.1366.768" timestamp="1579148354662" />
+    <state x="1788" y="92" width="670" height="676" key="search.everywhere.popup" timestamp="1579145127997">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1788" y="92" width="670" height="676" key="search.everywhere.popup/1440.0.1366.768/0.0.1440.900@1440.0.1366.768" timestamp="1579145127997" />
+  </component>
+</project>
