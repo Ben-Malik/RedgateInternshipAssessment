@@ -62,6 +62,7 @@ public class WordFrequenciesFinder {
         }
 
         //Occurrences are stored in a hash set, to be able to iterate in the wordFrequencies according to occurrence.
+        //LinkedHashSet is used in order to maintain the insertion order unbroken.
         LinkedHashSet<Integer> occurrences = new LinkedHashSet<>();
         for (Word word: wordFrequencies) {
             occurrences.add(word.getOccurrence());
