@@ -8,7 +8,7 @@ public class SimpleCharacterReader implements ICharacterReader {
 
     private String m_Content = "It was the best of times, it was the worst of times," + 
     lf +
-    "it was the age of wisdom, it was the age of foolishness," + 
+    "it was the age of wisdom, it was the age of foolishness," +
     lf +
     "it was the epoch of belief, it was the epoch of incredulity," + 
     lf +
